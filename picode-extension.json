@@ -1,5 +1,6 @@
 {
-  "id": "picode-decisions-local",
+  "id": "decisions-local",
+  "formerly": ["picode-decisions-local"],
   "name": "Local model fast decisions",
   "version": "0.1.0",
   "apiVersion": 13,
